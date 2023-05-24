@@ -1,0 +1,33 @@
+.container {
+  align-items: center;
+  font-size: 18px;
+  color: #010101;
+  width: 370px;
+  padding: 10px;
+  border-radius: 3px;
+  outline: 1px solid #010101;
+  background-color: #f8fbfb;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.button {
+  text-transform: capitalize;
+  margin-right: 10px;
+}
+
+.item {
+  display: flex;
+  font-size: 16px;
+  color: #010101;
+  /* margin-bottom: 5px; */
+}
+
+.rating {
+  font-size: 16px;
+  color: #010101;
+  margin-top: 0;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
